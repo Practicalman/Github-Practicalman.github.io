@@ -103,6 +103,6 @@
 
 
 
-  [1]: https://github-laziji.github.io
-  [2]: https://github.com/GitHub-Laziji/GitHub-Laziji.github.io
-  [3]: https://github.com/GitHub-Laziji/vblog
+  [1]: https://practicalman.github.io
+  [2]: https://github.com/Practicalman/Practicalman.github.io
+  [3]: https://github.com/Practicalman/vblog
