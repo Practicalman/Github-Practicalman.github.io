@@ -16,10 +16,10 @@
 
 
 ## 演示地址
-[https://github-laziji.github.io][1]
+[https://practicalman.github.io][1]
 
 ## 项目源码
-[https://github.com/GitHub-Laziji/vblog][3]
+[https://github.com/GitHub-Practicalman/vblog][3]
 
 ## 项目特点
 
@@ -87,7 +87,7 @@
 类似演示地址其中 GitHub-Laziji 为我的用户名
 
 
-现在 ```https://你的用户名.github.io``` 就是你的个人博客了,例如[https://github-laziji.github.io][1]
+现在 ```https://你的用户名.github.io``` 就是你的个人博客了,例如[https://practicalman.github.io][1]
 
 
 
