@@ -19,7 +19,7 @@
 [https://practicalman.github.io][1]
 
 ## 项目源码
-[https://github.com/GitHub-Practicalman/vblog][3]
+[https://github.com/Practicalman/Practicalman.github.io][3]
 
 ## 项目特点
 
@@ -105,4 +105,4 @@
 
   [1]: https://practicalman.github.io
   [2]: https://github.com/Practicalman/Practicalman.github.io
-  [3]: https://github.com/Practicalman/vblog
+  [3]: https://github.com/Practicalman/Practicalman.github.io
